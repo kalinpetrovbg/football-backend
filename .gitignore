@@ -1,0 +1,12 @@
+# PyCharm project files
+.idea/
+.Lib/
+.Scripts/
+*.iml
+.venv/
+
+pyvenv.cfg
+test_main.http
+
+# For Windows users
+Thumbs.db
